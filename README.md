@@ -64,4 +64,4 @@ The dataset includes customer information such as:
 ## Conclusion
 
 The Customer Churn Prediction model successfully analyzes customer data to predict whether a customer is likely to leave the company. This project demonstrates how Machine Learning can support business decision-making by identifying high-risk customers and enabling effective customer retention strategies.
-# churn-prediction
+
